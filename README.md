@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on trainee program 2023
+- 🌱 I’m currently learning HTML, CSS, C++
+- 😄 Pronouns: helikopter
+- 📫 How to reach me: [...](https://www.facebook.com/quyen.lethi.5623/)
 <!--
 **kllp031/kllp031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
