@@ -24,89 +24,41 @@
 </details>
 
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    .subscribe-button {
-    background-color: rgb(200, 0, 0);
-    color: white;
-    border: none;
-    height: 36px;
-    width: 105px;
-    border-radius: 2px;
-    cursor: pointer;
-    margin-right: 8px;
-    transition: opacity 0.1s;
-}
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
-.subscribe-button:hover {
-    opacity: 0.8;
-}
+<!-- display the social media buttons in your README -->
 
-.subscribe-button:active{
-    opacity: 0.5;
-}
-
-.join-button {
-    background-color: rgb(255, 255, 255);
-    color: rgb(3, 90, 253);
-    border-color: rgb(3, 90, 253);
-    border-style: solid;
-    border-width: 1px;
-    height: 36px;
-    width: 62px;
-    border-radius: 2px;
-    cursor: pointer; 
-    font-weight: bold;
-    transition: background-color 0.15s, 
-        color 0.15s;
-}   
-
-.join-button:hover{
-    background-color: rgb(3, 90, 253);
-    color: white;
-}
-
-.join-button:active{
-    opacity: 0.7;
-}
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+[![alt text][3.1]][3]
+[![alt text][4.1]][4]
+[![alt text][5.1]][5]
+[![alt text][6.1]][6]
 
 
-.tweet-button {
-    background-color: rgb(37, 131, 253);
-    color: rgb(255, 255, 255);
-    border: none;
-    height: 36px;
-    width: 80px;
-    border-radius: 20px;
-    cursor: pointer;
-    font-weight: bold;
-    font-size: 15px;
-    margin-left: 8px;
-    transition: box-shadow 0.15s,
-        opacity 0.15s;
+<!-- links to social media icons -->
+<!-- no need to change these -->
 
-} 
+<!-- icons with padding -->
 
-.tweet-button:hover{
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.226);
-}
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/P3YfQoD.png (facebook icon with padding)
+[3.1]: http://i.imgur.com/yCsTjba.png (google plus icon with padding)
+[4.1]: http://i.imgur.com/YckIOms.png (tumblr icon with padding)
+[5.1]: http://i.imgur.com/1AGmwO3.png (dribbble icon with padding)
+[6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
-.tweet-button:active{
-    opacity: 0.8;
-}
-</head>
-<body>
-<button class="subscribe-button">
-    SUBSCRIBE
-</button>
-<button class="join-button">JOIN
-    </button>
-<button class="tweet-button">
-    Tweet
-</button>
-</body>
-</html>
+<!-- links to your social media accounts -->
+<!-- update these accordingly -->
+
+[1]: http://www.twitter.com/carlsednaoui
+[2]: [https://www.facebook.com/quyen.lethi.5623/]
+[3]: https://plus.google.com/+CarlSednaoui
+[4]: http://carlsed.tumblr.com
+[5]: http://dribbble.com/carlsednaoui
+[6]: http://www.github.com/carlsednaoui
+
+<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 ---
 > People die if they are killed.
