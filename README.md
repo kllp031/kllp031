@@ -8,9 +8,9 @@
 <h1 align="center">Hi 👋, I'm Phong</h1>
 <h3 align="center">A student from University of Information Technology</h3>
 
-- 🔭 I’m currently working on **trainee program 2023**
+- 🔭 I’m currently working on **Science stuff**
 
-- 🌱 I’m currently learning **HTML, CSS, C++**
+- 🌱 I’m currently learning **HTML, CSS, C++, Python, Machine Learning**
 
 - 📫 How to reach me **https://www.facebook.com/quyen.lethi.5623/**
 
